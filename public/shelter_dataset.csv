@@ -1,0 +1,204 @@
+PetID,PetType,Breed,AgeMonths,Color,Size,WeightKg,Vaccinated,HealthCondition,TimeInShelterDays,AdoptionFee,PreviousOwner,AdoptionLikelihood
+500,Bird,Parakeet,131,Orange,Large,5.039767823,1,0,27,140,0,0
+501,Rabbit,Rabbit,73,White,Large,16.08672685,0,0,8,235,0,0
+502,Dog,Golden Retriever,136,Orange,Medium,2.076286279,0,0,85,385,0,0
+503,Bird,Parakeet,97,White,Small,3.339423254,0,0,61,217,1,0
+504,Rabbit,Rabbit,123,Gray,Large,20.49809976,0,0,28,14,1,0
+505,Dog,Labrador,70,Brown,Large,20.9862609,0,0,87,301,1,0
+506,Bird,Parakeet,169,Brown,Small,10.90261279,1,0,70,440,1,0
+507,Cat,Siamese,13,Orange,Large,7.252683192,1,0,3,137,0,1
+508,Bird,Parakeet,49,Brown,Medium,24.59759785,1,1,69,405,0,0
+509,Bird,Parakeet,60,Gray,Large,7.295993655,0,0,73,231,1,0
+510,Bird,Parakeet,130,Orange,Large,16.71878502,0,0,7,88,0,0
+511,Rabbit,Rabbit,5,White,Small,29.07805639,1,0,60,462,0,1
+512,Dog,Golden Retriever,172,Brown,Large,5.287720698,1,0,4,76,1,0
+513,Cat,Siamese,27,Black,Large,28.28541176,1,0,5,135,0,0
+514,Cat,Persian,160,Brown,Medium,6.303898539,1,0,11,404,0,1
+515,Rabbit,Rabbit,149,White,Small,17.45585303,1,0,15,468,1,0
+516,Cat,Persian,8,Orange,Small,11.93322365,1,1,64,405,1,0
+517,Cat,Persian,50,White,Medium,28.98292944,1,0,13,109,0,1
+518,Rabbit,Rabbit,67,Black,Large,8.932718841,1,1,7,352,1,0
+519,Dog,Labrador,44,Gray,Small,12.59008206,0,1,6,300,0,0
+520,Rabbit,Rabbit,125,Brown,Small,29.50294342,1,0,56,90,0,0
+521,Cat,Persian,58,Orange,Large,16.55764134,0,0,64,423,1,0
+522,Dog,Labrador,3,Gray,Large,15.57627335,1,0,50,369,1,1
+523,Dog,Golden Retriever,86,White,Small,8.475576158,1,0,30,405,0,0
+524,Bird,Parakeet,70,Orange,Large,21.33954325,1,0,22,413,0,0
+525,Bird,Parakeet,130,Gray,Small,1.416815602,1,0,25,189,0,0
+526,Cat,Persian,172,Orange,Large,2.435866261,1,0,28,72,0,0
+527,Rabbit,Rabbit,2,Black,Large,18.38139903,1,1,84,172,0,0
+528,Rabbit,Rabbit,102,Black,Medium,10.90856264,0,0,39,34,0,0
+529,Rabbit,Rabbit,35,Brown,Large,28.64617479,0,1,67,209,0,0
+530,Bird,Parakeet,98,Brown,Medium,27.19253003,1,0,5,297,0,1
+531,Cat,Persian,30,Black,Large,21.6974815,1,1,65,132,0,0
+532,Bird,Parakeet,116,Orange,Small,24.72622185,1,0,15,282,1,0
+533,Cat,Siamese,8,Black,Small,20.35262364,1,0,67,197,0,1
+534,Rabbit,Rabbit,150,Brown,Large,4.641880979,1,0,40,445,0,0
+535,Bird,Parakeet,44,Black,Large,23.20075772,0,0,69,31,1,0
+536,Rabbit,Rabbit,36,Black,Small,7.095567093,1,0,77,135,1,0
+537,Rabbit,Rabbit,77,Orange,Large,10.3798428,0,0,43,247,0,0
+538,Dog,Golden Retriever,31,Gray,Medium,24.75779215,1,0,1,358,0,1
+539,Dog,Golden Retriever,47,Brown,Medium,16.55924264,0,0,22,340,1,0
+540,Bird,Parakeet,55,Orange,Medium,25.93828071,1,0,62,145,0,1
+541,Dog,Labrador,106,Black,Medium,7.178024275,0,0,79,333,1,1
+542,Bird,Parakeet,158,Black,Medium,18.62557472,1,0,26,142,0,1
+543,Cat,Persian,121,Gray,Large,3.429938204,1,1,18,233,0,0
+544,Dog,Poodle,55,Brown,Large,19.64876881,1,0,48,409,0,0
+545,Cat,Persian,144,Brown,Medium,23.1134871,1,0,9,436,1,1
+546,Dog,Poodle,12,White,Large,17.96299593,1,1,1,43,1,0
+547,Dog,Poodle,145,Brown,Large,8.720713543,1,0,9,31,0,0
+548,Rabbit,Rabbit,144,Gray,Medium,1.908937397,1,0,23,230,0,1
+549,Rabbit,Rabbit,140,White,Large,4.464017635,0,0,45,27,0,0
+550,Bird,Parakeet,136,White,Large,19.04678639,1,0,2,422,0,0
+551,Rabbit,Rabbit,3,Black,Large,28.09818629,0,0,14,490,1,0
+552,Bird,Parakeet,144,Black,Medium,6.989497715,0,0,38,159,0,0
+553,Rabbit,Rabbit,30,Brown,Large,22.31575832,1,0,40,332,1,0
+554,Dog,Golden Retriever,23,White,Small,26.12708083,1,0,63,206,0,1
+555,Bird,Parakeet,92,Black,Small,16.10558317,1,0,82,17,1,0
+556,Cat,Siamese,115,Gray,Medium,20.40870808,1,1,16,102,1,0
+557,Rabbit,Rabbit,104,Black,Small,24.63544418,0,0,75,69,0,0
+558,Cat,Persian,118,Black,Medium,8.559579574,0,1,6,118,0,0
+559,Rabbit,Rabbit,5,White,Small,9.609974554,1,1,3,138,0,0
+560,Cat,Persian,104,White,Small,1.018197982,1,0,14,159,0,0
+561,Cat,Persian,108,Orange,Small,28.9297298,0,0,66,231,0,0
+562,Cat,Persian,65,Gray,Medium,27.60880194,1,0,75,147,0,1
+563,Cat,Siamese,121,White,Medium,23.17247965,1,1,86,352,1,0
+564,Bird,Parakeet,30,Brown,Large,3.293204608,1,0,67,423,0,0
+565,Cat,Persian,149,Gray,Medium,13.9775838,1,1,31,391,1,0
+566,Rabbit,Rabbit,84,Gray,Small,3.954860865,1,0,33,242,1,0
+567,Cat,Persian,150,White,Small,1.461687751,1,0,88,34,1,0
+568,Cat,Persian,32,Gray,Medium,18.86930599,0,0,1,324,0,0
+569,Cat,Siamese,161,White,Medium,28.8640531,1,0,44,381,0,1
+570,Rabbit,Rabbit,16,Black,Medium,27.18317268,1,0,15,354,0,1
+571,Bird,Parakeet,38,Orange,Large,21.20588963,0,0,37,238,0,0
+572,Rabbit,Rabbit,142,Black,Small,3.802576941,1,0,27,333,0,0
+573,Cat,Siamese,36,White,Large,8.950757092,1,0,48,148,1,0
+574,Rabbit,Rabbit,151,White,Large,10.28164508,1,1,27,110,0,0
+575,Dog,Poodle,114,Black,Small,23.13135167,0,1,12,407,0,0
+576,Rabbit,Rabbit,66,Brown,Small,24.2652262,1,0,67,16,1,0
+577,Dog,Labrador,105,Brown,Medium,12.16807757,1,0,30,401,0,1
+578,Cat,Siamese,85,Brown,Medium,13.1186359,0,0,87,225,0,0
+579,Dog,Poodle,2,White,Large,2.290762139,1,0,66,139,1,1
+580,Dog,Labrador,75,Gray,Medium,9.384964834,1,0,7,143,0,1
+581,Dog,Labrador,67,White,Medium,14.08727014,1,0,34,259,0,1
+582,Bird,Parakeet,151,Gray,Small,4.392508345,0,1,32,216,0,0
+583,Dog,Labrador,154,Black,Small,14.14475636,1,1,39,161,1,0
+584,Dog,Golden Retriever,55,Orange,Medium,25.74209856,1,0,43,91,0,1
+585,Dog,Labrador,6,Gray,Small,17.85830957,1,0,43,173,0,1
+586,Rabbit,Rabbit,163,Brown,Medium,3.288965796,1,0,78,330,0,1
+587,Rabbit,Rabbit,150,White,Small,6.558468246,1,0,3,204,0,0
+588,Rabbit,Rabbit,171,Black,Small,14.76178615,0,0,46,414,0,0
+589,Bird,Parakeet,143,Brown,Small,11.48312734,1,0,32,152,0,0
+590,Bird,Parakeet,86,Black,Small,11.40308357,1,0,43,102,0,0
+591,Bird,Parakeet,60,Orange,Medium,16.348756,1,1,81,201,0,0
+592,Dog,Golden Retriever,101,White,Large,17.94748173,0,0,3,279,0,0
+593,Bird,Parakeet,12,White,Small,24.10898554,1,1,74,64,0,0
+594,Dog,Golden Retriever,49,Orange,Medium,10.88803034,1,1,63,116,0,0
+595,Dog,Poodle,42,White,Medium,24.35852221,1,1,40,152,0,0
+596,Bird,Parakeet,166,Gray,Small,10.81972564,0,0,18,155,0,0
+597,Cat,Siamese,82,Black,Large,2.607556679,0,0,67,163,1,0
+598,Rabbit,Rabbit,173,Brown,Small,17.07144188,0,0,62,81,1,0
+599,Bird,Parakeet,35,Orange,Medium,18.04916742,1,0,10,5,0,1
+600,Dog,Poodle,158,Gray,Large,28.10166712,0,0,52,321,0,0
+601,Dog,Golden Retriever,158,Brown,Medium,22.05577846,0,0,73,66,0,0
+602,Bird,Parakeet,134,Brown,Small,27.61540692,0,0,46,237,0,0
+603,Cat,Persian,67,Orange,Large,27.3420691,1,0,55,71,0,0
+604,Dog,Golden Retriever,80,Gray,Medium,18.5326492,0,1,46,94,0,0
+605,Rabbit,Rabbit,7,Brown,Medium,16.30509989,1,0,75,303,1,1
+606,Rabbit,Rabbit,14,Brown,Medium,17.16578805,0,0,60,466,0,1
+607,Cat,Siamese,73,Gray,Small,29.37159342,1,0,26,497,0,0
+608,Bird,Parakeet,143,White,Large,23.42186306,1,0,27,325,1,0
+609,Dog,Golden Retriever,149,Brown,Small,4.081711239,1,0,38,77,0,0
+610,Dog,Golden Retriever,163,Black,Small,23.5744238,1,0,22,66,0,0
+611,Cat,Siamese,66,Gray,Small,5.945603418,1,0,26,175,1,0
+612,Dog,Labrador,91,Brown,Large,13.97316592,1,0,86,320,1,1
+613,Cat,Siamese,130,Orange,Small,7.103330493,1,0,69,171,1,0
+614,Bird,Parakeet,163,Black,Small,20.9979089,1,0,35,477,0,0
+615,Cat,Siamese,20,Brown,Small,26.44198235,1,0,66,254,0,1
+616,Bird,Parakeet,10,Black,Small,9.420494676,1,0,73,62,1,1
+617,Dog,Golden Retriever,25,Black,Medium,3.378311495,1,0,51,301,0,1
+618,Bird,Parakeet,25,White,Small,9.656299844,1,1,18,402,1,0
+619,Cat,Persian,54,Black,Medium,20.49849388,1,1,43,245,0,0
+620,Rabbit,Rabbit,33,White,Small,10.5340437,0,0,12,191,0,0
+621,Dog,Golden Retriever,164,Gray,Large,9.065252859,0,0,3,466,1,0
+622,Bird,Parakeet,95,White,Medium,6.348620527,1,0,82,328,0,1
+623,Rabbit,Rabbit,14,Orange,Medium,15.42797638,0,0,7,70,0,1
+624,Bird,Parakeet,65,Brown,Medium,9.002516017,1,0,6,365,0,1
+625,Dog,Labrador,110,Gray,Medium,22.19930013,0,0,82,228,0,1
+626,Rabbit,Rabbit,80,Gray,Large,3.222049658,1,0,45,433,0,0
+627,Rabbit,Rabbit,54,Orange,Small,20.25695796,1,0,86,62,0,0
+628,Cat,Siamese,125,White,Medium,7.889240422,1,0,39,296,0,1
+629,Bird,Parakeet,131,Brown,Large,15.18909857,1,0,51,244,1,0
+630,Bird,Parakeet,169,White,Medium,9.296607739,0,0,9,6,0,0
+631,Dog,Golden Retriever,134,Black,Small,21.9602916,0,0,23,392,1,0
+632,Bird,Parakeet,25,White,Medium,28.41390417,1,0,12,259,0,1
+633,Dog,Labrador,141,Gray,Large,27.5952266,1,0,88,88,0,1
+634,Rabbit,Rabbit,117,Brown,Small,17.91936024,1,0,62,176,0,0
+635,Bird,Parakeet,136,White,Large,14.41569879,1,0,73,203,1,0
+636,Bird,Parakeet,149,Brown,Small,24.73071477,1,0,77,133,1,0
+637,Bird,Parakeet,25,Brown,Small,20.81646452,1,0,40,81,1,0
+638,Cat,Persian,79,Black,Small,6.323359312,1,0,54,487,0,0
+639,Cat,Persian,68,Black,Medium,24.80665719,0,0,81,20,0,0
+640,Dog,Poodle,173,Gray,Large,13.43764729,1,0,7,398,1,0
+641,Dog,Labrador,12,Orange,Large,6.480584139,1,0,17,127,1,1
+642,Cat,Persian,32,Brown,Large,9.172123161,0,1,50,194,1,0
+643,Rabbit,Rabbit,128,Orange,Small,8.758283877,1,1,24,193,0,0
+644,Rabbit,Rabbit,96,Gray,Medium,16.05700226,0,0,2,183,1,0
+645,Rabbit,Rabbit,92,Brown,Small,7.79673263,1,1,83,246,0,0
+646,Rabbit,Rabbit,141,Brown,Large,4.583428135,1,0,33,360,0,0
+647,Cat,Persian,31,Orange,Medium,4.587034668,1,0,21,359,0,1
+648,Bird,Parakeet,78,White,Medium,17.91500972,1,0,74,323,0,1
+649,Rabbit,Rabbit,20,Black,Medium,22.30801938,1,1,53,159,1,1
+650,Cat,Siamese,146,White,Large,10.32445726,1,0,46,193,1,0
+651,Rabbit,Rabbit,60,Orange,Medium,2.004870585,1,1,45,109,1,0
+652,Dog,Golden Retriever,134,Black,Medium,4.689521721,1,0,9,412,0,1
+653,Cat,Siamese,160,White,Small,27.52614225,1,0,6,65,0,0
+654,Dog,Labrador,93,Black,Small,15.31276613,1,0,51,417,1,1
+655,Bird,Parakeet,43,Brown,Medium,14.15361148,0,0,35,253,0,0
+656,Cat,Siamese,130,White,Medium,2.103426171,1,0,82,282,1,1
+657,Rabbit,Rabbit,60,Black,Small,22.13047365,0,0,53,59,0,0
+658,Dog,Labrador,151,Black,Small,16.31397435,0,0,19,117,0,0
+659,Bird,Parakeet,31,Black,Small,6.860347147,1,0,69,422,0,0
+660,Bird,Parakeet,5,White,Large,4.192139045,0,0,25,43,1,0
+661,Cat,Persian,162,Gray,Large,12.11824805,1,1,11,485,0,0
+662,Bird,Parakeet,10,White,Small,25.27769696,1,0,74,209,0,1
+663,Dog,Poodle,89,Orange,Medium,26.09354222,1,0,17,35,1,1
+664,Dog,Labrador,130,White,Small,18.48254503,1,0,36,18,0,1
+665,Bird,Parakeet,126,Black,Large,22.09855639,1,0,21,90,1,0
+666,Cat,Persian,11,Brown,Medium,4.339517835,0,1,18,300,0,0
+667,Rabbit,Rabbit,178,White,Large,18.0556559,1,1,60,211,0,0
+668,Bird,Parakeet,159,White,Medium,20.3420054,1,0,18,404,1,1
+669,Bird,Parakeet,56,Black,Large,6.820672444,1,0,1,406,0,0
+670,Cat,Persian,83,Brown,Medium,26.52448725,1,1,14,221,0,0
+671,Rabbit,Rabbit,137,Brown,Medium,6.654905388,1,1,8,216,0,0
+672,Rabbit,Rabbit,99,Orange,Medium,10.09084344,1,1,66,222,0,0
+673,Dog,Labrador,149,White,Medium,18.99614856,1,1,51,410,0,1
+674,Cat,Siamese,73,Brown,Large,19.51215189,0,0,79,97,0,0
+675,Cat,Persian,156,Brown,Large,21.28215749,1,0,60,455,1,0
+676,Rabbit,Rabbit,115,Gray,Medium,4.248339679,1,0,34,18,1,1
+677,Cat,Siamese,7,Gray,Medium,25.63446847,0,0,36,296,0,1
+678,Cat,Siamese,80,Brown,Large,16.45256684,1,0,62,25,0,0
+679,Dog,Labrador,144,Orange,Medium,14.66833203,1,0,1,27,0,1
+680,Dog,Labrador,97,Brown,Medium,29.45183111,1,0,85,63,0,1
+681,Bird,Parakeet,4,Black,Medium,22.47097061,0,0,42,323,0,1
+682,Dog,Poodle,4,White,Small,4.422174772,1,0,1,222,0,1
+683,Cat,Persian,103,Orange,Medium,22.93963585,0,0,84,79,0,0
+684,Cat,Siamese,40,Black,Small,3.762219085,1,0,54,50,0,0
+685,Dog,Labrador,17,Orange,Medium,1.796646313,0,1,47,457,0,1
+686,Dog,Golden Retriever,101,Black,Large,12.70515096,1,1,39,101,1,0
+687,Cat,Persian,103,White,Small,29.81376701,1,0,30,175,1,0
+688,Dog,Poodle,124,White,Small,6.07163415,1,0,7,9,0,0
+689,Rabbit,Rabbit,52,Gray,Medium,20.50668596,0,0,22,236,1,0
+690,Cat,Persian,52,Black,Medium,6.02848592,1,0,50,456,0,1
+691,Bird,Parakeet,164,Gray,Small,22.01882227,1,0,45,422,1,0
+692,Rabbit,Rabbit,124,Black,Large,15.65525638,1,0,74,99,0,0
+693,Bird,Parakeet,166,Gray,Large,20.71917959,1,1,72,498,1,0
+694,Bird,Parakeet,178,White,Medium,6.883322102,1,0,10,377,0,1
+695,Rabbit,Rabbit,63,Orange,Large,22.62322164,1,0,14,227,0,0
+696,Bird,Parakeet,116,Gray,Large,29.87295273,0,0,46,402,0,0
+697,Dog,Golden Retriever,62,Black,Medium,20.30386452,0,0,75,63,0,0
+698,Cat,Persian,7,Black,Large,15.31091994,1,0,6,379,0,1
+699,Dog,Poodle,155,White,Medium,27.77204567,0,1,21,18,0,0
+700,Cat,Persian,92,Black,Small,1.459703425,1,0,62,331,1,0
+... [Truncated for brevity] ...
+3306,Lizard,Blue-tongued Skink,83,Black,Large,3.261282,0,1,70,345,0,1

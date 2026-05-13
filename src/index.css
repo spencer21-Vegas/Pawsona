@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Mali:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Fredoka", cursive;
+  --font-sans: "Mali", ui-sans-serif, system-ui, sans-serif;
+  --color-cafe-cream: #F7E7D3;
+  --color-cafe-wood: #D99A5E;
+  --color-cafe-dark: #7A4B2A;
+  --color-cafe-accent: #F28BA8;
+  --color-bg-warm: #FAF7F2;
+  --color-primary-pastel: #F6B6C8;
+  --color-secondary-pastel: #CDB7F6;
+  --color-accent-pastel: #CCD5AE;
+  --color-highlight-pastel: #FFD36E;
+  --color-deep-gray: #2B2B2B;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-bg-warm);
+  color: var(--color-deep-gray);
+  font-family: var(--font-sans);
+  cursor: url('/paw_cursor.png') 16 16, auto;
+}
+
+a, button, [role="button"], .cursor-pointer {
+  cursor: url('/paw_cursor.png') 16 16, pointer;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-serif);
+  letter-spacing: -0.02em;
+}
+
+.bento-card {
+  @apply bg-white border-4 border-deep-gray rounded-[32px] shadow-sm transition-all;
+}
+
+.bento-button {
+  @apply bg-primary-pastel border-4 border-deep-gray rounded-2xl px-6 py-3 font-bold shadow-sm active:translate-x-0 active:translate-y-0 active:scale-95 transition-all cursor-pointer;
+}
+
+.choice-card-selected {
+  @apply bg-primary-pastel outline-4 outline-accent-pastel;
+}
+
+.grain-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 50;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+.checkerboard-strip {
+  background-image: repeating-conic-gradient(#2B2B2B 0% 25%, transparent 0% 50%);
+  background-position: 0 0, 10px 10px;
+  background-size: 20px 200%;
+  height: 12px;
+  opacity: 0.05;
+}
+
+@keyframes steam {
+  0% { transform: translateY(0) translateX(0) scale(1); opacity: 0; }
+  20% { opacity: 0.5; }
+  50% { transform: translateY(-20px) translateX(5px) scale(1.5); opacity: 0.3; }
+  100% { transform: translateY(-40px) translateX(-5px) scale(2); opacity: 0; }
+}
+
+.steam-line {
+  animation: steam 2s infinite ease-out;
+}
+
+.perspective-text {
+  transform: perspective(500px) rotateY(-10deg);
+}
+
